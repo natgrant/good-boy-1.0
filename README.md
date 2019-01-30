@@ -25,6 +25,7 @@ Phase 1 Technologies:
 - Understand Databases & relationships
 - Incorporate/upgrade to React
 - Meaningful and frequent commits
+- Learn and use Material UI
 
 ## User Stories
 
