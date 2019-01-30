@@ -1,17 +1,6 @@
-# Boilerplate: Knex.js
+# Personal Project: Good Boy
 
-Phase 1 boilerplate project with:
-
- - Express
- - Knex
- - SQLite3
- - Express Handlebars
- - body-parser
- - Jest
- - nodemon
-
-
-## Install
+## Run me
 
 ```
 yarn
@@ -20,5 +9,30 @@ yarn knex seed:run
 yarn dev
 ```
 
-Be sure to check out the other npm scripts too.
+## Vision
 
+I am building this app because I love animals, and also because I want to build something fun to keep me engaged while I achieve learning competencies set for this project.
+
+Phase 1 Technologies:
+
+- Express
+- Knex
+- SQLite3
+- Express Handlebars
+
+## Goals (Personal)
+
+- Understand Databases & relationships
+- Incorporate/upgrade to React
+- Meaningful and frequent commits
+
+## User Stories
+
+## Todos
+
+[ ] Write ReadMe
+[ ] Write User Stories
+[ ] Expand on goals
+[ ] Incorporate React
+
+## Reflections & Learnings
