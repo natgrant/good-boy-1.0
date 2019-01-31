@@ -35,5 +35,6 @@ Phase 1 Technologies:
 [ ] Write User Stories
 [ ] Expand on goals
 [ ] Incorporate React
+[ ] Deploy to Heroku
 
 ## Reflections & Learnings
